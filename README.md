@@ -1,6 +1,6 @@
 # Banco de Dados - Pizzaria Bella
 
-<img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/bc3b103c-d6f7-4402-b838-9d47e5efe5ae" /> <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/b1f1a848-73a1-4ac0-8224-e056e77779ca" />
+<img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/bc3b103c-d6f7-4402-b838-9d47e5efe5ae" /> <img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/b1f1a848-73a1-4ac0-8224-e056e77779ca" />
 
 
 
