@@ -1,6 +1,6 @@
 # Banco de Dados - Pizzaria Bella
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL]([https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white](https://medium.com/@andrensaraiva/banco-de-dados-mysqlworkbench-b636c75d0fcf))
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 
 ## Descrição
