@@ -33,7 +33,7 @@ Se você quiser recriar ou testar o banco de dados:
 
 ## Conteúdo Educacional
 Confira o material sobre **DDL e DML**:  
-[Conteúdo Educacional sobre DDL e DML](conteudo_educacional/ddl_dml_exemplos.md)
+[Conteúdo Educacional sobre DDL e DML](conteudo_educacional)
 
 
 
