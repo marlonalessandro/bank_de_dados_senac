@@ -31,6 +31,10 @@ Se você quiser recriar ou testar o banco de dados:
 
 > Observação: lembrando que o banco de dados já está estruturado e funcional. Este passo é apenas para recriação ou para teste.
 
+## Conteúdo Educacional
+Confira o material sobre **DDL e DML**:  
+[Conteúdo Educacional sobre DDL e DML](conteudo_educacional/ddl_dml_exemplos.md)
+
 
 
 
