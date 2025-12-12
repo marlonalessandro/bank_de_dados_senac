@@ -1,5 +1,7 @@
 # Banco de Dados - Pizzaria Bella
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/ER_Diagram.png/320px-ER_Diagram.png" alt="Diagrama" width="400"/>
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
