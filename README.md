@@ -3,9 +3,7 @@
 <img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/bc3b103c-d6f7-4402-b838-9d47e5efe5ae" />
 
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 
 ## Descrição
 Este projeto foi desenvolvido como atividade da disciplina de Banco de Dados, do curso de Análise e Desenvolvimento de Sistemas.  
