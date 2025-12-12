@@ -41,9 +41,3 @@ A **DML** é usada para **manipular os dados dentro das tabelas**, como inserir,
 
 No projeto, os comandos DML foram usados para **preencher tabelas com dados fictícios** e para demonstrar manipulação de informações, como **atualização de preços** e **remoção de registros**.
 
----
-
-## 3. Recursos Visuais e Adicionais
-
-- **Imagem do diagrama ERD (entidades e relacionamentos):**
-
