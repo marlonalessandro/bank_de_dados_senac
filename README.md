@@ -1,6 +1,6 @@
 # Banco de Dados - Pizzaria Bella
 
- width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/0210428f-bb4d-4410-92c5-fe1500d5f2b6" 
+<img src=<img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/bc3b103c-d6f7-4402-b838-9d47e5efe5ae" />
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
