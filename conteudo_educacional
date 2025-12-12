@@ -1,1 +1,49 @@
+# Conteúdo Educacional: DDL e DML
+
+Este material explica os principais comandos SQL e mostra como eles foram utilizados na criação e manipulação do banco de dados **Pizzaria Bella**.
+
+---
+
+## 1. DDL – Data Definition Language
+
+A **DDL** é a parte do SQL usada para **definir e estruturar o banco de dados**, incluindo a criação de bancos, tabelas e relacionamentos.
+
+### Comandos mais comuns de DDL
+
+| Comando | Descrição | Exemplo no projeto |
+|---------|-----------|------------------|
+| `CREATE` | Cria bancos, tabelas ou outros objetos | Criamos a tabela **clientes**: <br>`CREATE TABLE clientes (cliente_id INT AUTO_INCREMENT, nome VARCHAR(100), PRIMARY KEY(cliente_id));` |
+| `ALTER` | Modifica a estrutura de uma tabela existente | Poderia ser usado para adicionar colunas, como `ALTER TABLE clientes ADD COLUMN telefone VARCHAR(20);` |
+| `DROP`  | Remove tabelas ou bancos de dados | Não usamos no projeto, mas seria útil para apagar tabelas temporárias |
+| `TRUNCATE` | Remove todos os registros sem apagar a estrutura | Poderia ser usado para limpar a tabela **pedidos** sem perder a definição da tabela |
+
+> **Recorte do script aplicado:**  
+
+No projeto, usamos o `CREATE TABLE` para criar **clientes, pizzas e pedidos**, estabelecendo **chaves primárias e estrangeiras** para garantir integridade referencial.  
+Isso permite relacionar cada pedido a um cliente e a uma pizza específica.
+
+---
+
+## 2. DML – Data Manipulation Language
+
+A **DML** é usada para **manipular os dados dentro das tabelas**, como inserir, atualizar, excluir e consultar informações.
+
+### Comandos mais comuns de DML
+
+| Comando | Descrição | Exemplo no projeto |
+|---------|-----------|------------------|
+| `INSERT` | Adiciona registros nas tabelas | Inserimos clientes, pizzas e pedidos, por exemplo: <br>`INSERT INTO clientes (nome, telefone) VALUES ('João', '9999-9999');` |
+| `UPDATE` | Altera dados existentes | Atualizamos preços de pizzas ou cidades de clientes: <br>`UPDATE pizzas SET preco=32.00 WHERE nome_pizza='Margherita';` |
+| `DELETE` | Remove registros | Excluímos pedidos ou clientes específicos: <br>`DELETE FROM pedidos WHERE pedido_id=1;` |
+| `SELECT` | Consulta dados | Consultamos informações, como todos os pedidos de um cliente: <br>`SELECT * FROM pedidos WHERE cliente_id=1;` |
+
+> **Recorte do script aplicado:**  
+
+No projeto, os comandos DML foram usados para **preencher tabelas com dados fictícios** e para demonstrar manipulação de informações, como **atualização de preços** e **remoção de registros**.
+
+---
+
+## 3. Recursos Visuais e Adicionais
+
+- **Imagem do diagrama ERD (entidades e relacionamentos):**
 
