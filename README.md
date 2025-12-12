@@ -14,7 +14,6 @@ O projeto permite praticar comandos SQL de definição (DDL) e manipulação (DM
 
 ## Objetivo
 Aplicar comandos SQL de **DDL** (Data Definition Language) e **DML** (Data Manipulation Language), criando tabelas, relacionamentos e exemplos de manipulação de dados.  
-Além disso, compreender a organização de um repositório com scripts SQL e material educativo.
 
 ## Estrutura do Banco de Dados
 - **clientes**: armazena dados dos clientes (nome, telefone, cidade)  
